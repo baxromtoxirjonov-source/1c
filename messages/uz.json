@@ -1,0 +1,142 @@
+{
+  "site": {
+    "title": "TizimLug'at",
+    "subtitle": "Biznes tizimlari ensiklopediyasi",
+    "description": "ERP, CRM, POS va boshqa boshqaruv tizimlari haqida O‘zbekiston tadbirkorlari, rahbarlar va IT mutaxassislari uchun yagona interaktiv qomus.",
+    "catalogTag": "O‘zbekiston korporativ dasturlar katalogi",
+    "heroTitle1": "Biznes tizimlarini",
+    "heroTitle2": "oson tushuning",
+    "searchPlaceholder": "ERP, CRM, 1C, BILLZ, Didox qidiring...",
+    "searchButton": "Qidirish",
+    "searchQuick": "Tezkor:",
+    "consultationBtn": "Maslahat olish",
+    "lightMode": "Yorug' rejim",
+    "darkMode": "Tungi rejim",
+    "systemTheme": "Tizim rejimi"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "systemTypes": "Tizim turlari",
+    "platforms": "Platformalar",
+    "local": "O'zbekiston tizimlari",
+    "compare": "Taqqoslash",
+    "search": "Qidiruv"
+  },
+  "stats": {
+    "typesCount": "Tizim turlari",
+    "typesDesc": "Batafsil tasniflangan va tushuntirilgan",
+    "platformsCount": "Xalqaro platformalar",
+    "platformsDesc": "Global gigantlar tahlili va solishtiruvi",
+    "localCount": "Mahalliy yechimlar",
+    "localDesc": "O‘zbekiston soliq & biznes tizimlari"
+  },
+  "categories": {
+    "all": "Hammasi",
+    "savdo": "Savdo",
+    "talim": "Ta'lim",
+    "hujjat": "Hujjat",
+    "ombor": "Ombor",
+    "hr": "HR",
+    "tahlil": "Tahlil",
+    "boshqa": "Boshqa"
+  },
+  "common": {
+    "viewDetails": "Batafsil o'qish",
+    "explore": "O'rganish",
+    "learnMore": "Batafsil",
+    "addToCompare": "Taqqoslashga qo'shish",
+    "selected": "tanlandi",
+    "compareNow": "Taqqoslash",
+    "clearCompare": "Tozalash",
+    "maxCompareNotice": "Maksimal 3 ta tizimni taqqoslash mumkin",
+    "emptyStateTitle": "Hech narsa topilmadi",
+    "emptyStateDesc": "Boshqa kalit so'z yoki toifani tanlab ko'ring",
+    "pricing": "Narx modeli",
+    "deployment": "O'rnatish turi",
+    "localSupport": "O'zbekistonda rasmiy qo'llab-quvvatlash",
+    "hasLocalSupport": "Mavjud",
+    "noLocalSupport": "Mavjud emas",
+    "verified": "Tasdiqlangan",
+    "officialSite": "Rasmiy veb-sayt",
+    "back": "Orqaga qaytish",
+    "home": "Bosh sahifa",
+    "resultsFound": "ta natija topildi",
+    "loading": "Yuklanmoqda...",
+    "errorTitle": "Xatolik yuz berdi",
+    "errorDesc": "Sahifani yuklashda kutilmagan nosozlik paydo bo'ldi.",
+    "retry": "Qaytadan urinish",
+    "pageNotFoundTitle": "404 - Sahifa topilmadi",
+    "pageNotFoundDesc": "Siz qidirayotgan sahifa mavjud emas yoki boshqa manzilga ko'chirilgan."
+  },
+  "wizard": {
+    "badge": "Interaktiv yordamchi",
+    "title": "Qaysi tizim sizning biznesingizga mos keladi?",
+    "subtitle": "3 ta oddiy savolga javob bering va optimal tizimlar ro'yxatiga ega bo'ling",
+    "step1Title": "Biznesingiz sohasi",
+    "step2Title": "Xodimlar va filiallar soni",
+    "step3Title": "Asosiy hal qilinishi kerak bo'lgan muammo",
+    "next": "Keyingisi",
+    "prev": "Oldingisi",
+    "finish": "Natijani ko'rish",
+    "resultTitle": "Sizning biznesingiz uchun tavsiya etiladigan tizimlar:",
+    "whyThis": "Nega aynan shu?",
+    "sectors": {
+      "retail": "Chakana va ulgurji savdo (Do'kon, Market)",
+      "education": "Ta'lim va o'quv markazlari (Maktab, Kurslar)",
+      "horeca": "Umumiy ovqatlanish (Restoran, Kafe)",
+      "manufacturing": "Ishlab chiqarish va sexlar",
+      "services": "Xizmat ko'rsatish va konsalting",
+      "logistics": "Logistika va yetkazib berish"
+    },
+    "sizes": {
+      "micro": "1 - 5 xodim (Kichik biznes)",
+      "small": "5 - 25 xodim (O'rta biznes)",
+      "medium": "25 - 100 xodim (Kengayayotgan korxona)",
+      "enterprise": "100+ xodim (Yirik korporatsiya)"
+    },
+    "goals": {
+      "sales": "Savdo va mijozlar hisobini tartibga solish",
+      "warehouse": "Ombor, qoldiq va tannarxni nazorat qilish",
+      "finance": "Fiskal kassa, soliq va rasmiy buxgalteriya",
+      "employees": "Xodimlar intizomi, KPI va oylik hisoblash",
+      "all": "Barcha jarayonlarni yagona markazda birlashtirish"
+    }
+  },
+  "compare": {
+    "title": "Platformalarni taqqoslash",
+    "subtitle": "Imkoniyatlar, o'rnatish turi, narx siyosati va O'zbekiston integratsiyalarini yonma-yon solishtiring",
+    "feature": "Xususiyat",
+    "pricingModel": "Narxlash modeli",
+    "deployment": "O'rnatish formati",
+    "targetAudience": "Kimlar uchun mo'ljallangan",
+    "integrations": "Integratsiyalar",
+    "uzbekSupport": "O'zbekiston mahalliy qo'llab-quvvatlovi",
+    "selectToCompare": "Taqqoslash uchun kamida 2 ta platformani tanlang",
+    "pricingTypes": {
+      "free": "Bepul",
+      "freemium": "Freemium (Asosiy bepul + pullik)",
+      "subscription": "Obuna (Oylik / Yillik)",
+      "one_time": "Bir martalik litsenziya",
+      "custom": "Individual korporativ shartnoma"
+    },
+    "deploymentTypes": {
+      "cloud": "Bulutli (Cloud SaaS)",
+      "onprem": "Lokal serverda (On-premise)",
+      "hybrid": "Gibrid (Bulut + Lokal)"
+    }
+  },
+  "footer": {
+    "about": "O'zbekiston korporativ bozori uchun yetakchi ERP, CRM, WMS, POS va HRM tizimlari katalogi hamda tahliliy ensiklopediyasi.",
+    "sections": "Bo'limlar",
+    "popular": "Ommabop tizimlar",
+    "localSolutions": "Mahalliy yechimlar",
+    "contact": "Aloqa & Manzil",
+    "address": "Toshkent sh., Yunusobod t.",
+    "community": "hamjamiyati",
+    "rights": "Barcha huquqlar himoyalangan.",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+    "designSystem": "Dizayn tizimi",
+    "comingSoon": "Tez orada"
+  }
+}
